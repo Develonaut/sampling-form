@@ -20,13 +20,13 @@ export const SamplingResults = () => {
   return (
     <>
       <Button disabled={!samplings.length} onClick={() => clearSamplings()}>
-        Clear
+        Clear Results
       </Button>
       <TableContainer component={Paper}>
-        <Table className={classes.table} aria-label="simple table">
+        <Table aria-label="simple table">
           <TableHead>
             <TableRow>
-              <TableCell>Sample Size</TableCell>
+              <TableCell align="right">Sample Size</TableCell>
               <TableCell align="right">Sample Mean</TableCell>
               <TableCell align="right">Standard Deviation</TableCell>
               <TableCell align="right">Hypothesized Mean</TableCell>
@@ -35,9 +35,7 @@ export const SamplingResults = () => {
           <TableBody>
             {samplings.map((sampling) => (
               <TableRow key={sampling.id}>
-                <TableCell component="th" scope="row">
-                  {sampling.sampleSize}
-                </TableCell>
+                <TableCell align="right">{sampling.sampleSize}</TableCell>
                 <TableCell align="right">{sampling.sampleMean}</TableCell>
                 <TableCell align="right">
                   {sampling.standardDeviation}
