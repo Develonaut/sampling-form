@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/minitab-take-home/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/minitab-take-home/static/js/main.40a1df13.chunk.js",
-    "main.js.map": "/minitab-take-home/static/js/main.40a1df13.chunk.js.map",
+    "main.js": "/minitab-take-home/static/js/main.4094eaf1.chunk.js",
+    "main.js.map": "/minitab-take-home/static/js/main.4094eaf1.chunk.js.map",
     "runtime-main.js": "/minitab-take-home/static/js/runtime-main.1c6a0079.js",
     "runtime-main.js.map": "/minitab-take-home/static/js/runtime-main.1c6a0079.js.map",
-    "static/js/2.582a736b.chunk.js": "/minitab-take-home/static/js/2.582a736b.chunk.js",
-    "static/js/2.582a736b.chunk.js.map": "/minitab-take-home/static/js/2.582a736b.chunk.js.map",
+    "static/js/2.f1d40739.chunk.js": "/minitab-take-home/static/js/2.f1d40739.chunk.js",
+    "static/js/2.f1d40739.chunk.js.map": "/minitab-take-home/static/js/2.f1d40739.chunk.js.map",
     "index.html": "/minitab-take-home/index.html",
-    "precache-manifest.ba747d4f187d120038bbfbcece8f5d2e.js": "/minitab-take-home/precache-manifest.ba747d4f187d120038bbfbcece8f5d2e.js",
+    "precache-manifest.50e18ae6f04d79a3bde9152eeda115f8.js": "/minitab-take-home/precache-manifest.50e18ae6f04d79a3bde9152eeda115f8.js",
     "service-worker.js": "/minitab-take-home/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/minitab-take-home/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.582a736b.chunk.js.LICENSE.txt": "/minitab-take-home/static/js/2.582a736b.chunk.js.LICENSE.txt"
+    "static/js/2.f1d40739.chunk.js.LICENSE.txt": "/minitab-take-home/static/js/2.f1d40739.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1c6a0079.js",
-    "static/js/2.582a736b.chunk.js",
+    "static/js/2.f1d40739.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.40a1df13.chunk.js"
+    "static/js/main.4094eaf1.chunk.js"
   ]
 }
