@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/minitab-take-home/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/minitab-take-home/static/js/main.e07ed341.chunk.js",
+    "main.js.map": "/minitab-take-home/static/js/main.e07ed341.chunk.js.map",
+    "runtime-main.js": "/minitab-take-home/static/js/runtime-main.1c6a0079.js",
+    "runtime-main.js.map": "/minitab-take-home/static/js/runtime-main.1c6a0079.js.map",
+    "static/js/2.c8e48ba8.chunk.js": "/minitab-take-home/static/js/2.c8e48ba8.chunk.js",
+    "static/js/2.c8e48ba8.chunk.js.map": "/minitab-take-home/static/js/2.c8e48ba8.chunk.js.map",
+    "index.html": "/minitab-take-home/index.html",
+    "precache-manifest.44f20b3cdc1b65223a3ec18aa1e78b3a.js": "/minitab-take-home/precache-manifest.44f20b3cdc1b65223a3ec18aa1e78b3a.js",
+    "service-worker.js": "/minitab-take-home/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/minitab-take-home/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c8e48ba8.chunk.js.LICENSE.txt": "/minitab-take-home/static/js/2.c8e48ba8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c6a0079.js",
+    "static/js/2.c8e48ba8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e07ed341.chunk.js"
+  ]
+}
