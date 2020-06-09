@@ -51,7 +51,7 @@ export const SamplingResults = () => {
         </Table>
         {!samplings.length && (
           <Typography className={classes.noResults}>
-            No Samplings Results
+            No Sampling Results
           </Typography>
         )}
       </TableContainer>
