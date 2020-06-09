@@ -7,7 +7,7 @@ export const Sampling = ({ children, ...restProps }) => {
   const context = useInitSampling();
 
   return (
-    <Container {...restProps}>
+    <Container maxWidth="sm" {...restProps}>
       <SamplingContext.Provider value={context}>
         <SamplingForm />
         <SamplingResults />
