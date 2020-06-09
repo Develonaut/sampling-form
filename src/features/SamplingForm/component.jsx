@@ -4,7 +4,7 @@ import { TextField, Checkbox, FormActions, Form } from "common";
 import { FormikDebugger } from "core";
 import { useSampling } from "pages/Sampling";
 import shortid from "shortid";
-import { getQueryParam } from "../../core/utils/getQueryParam";
+import { getQueryParam } from "core/utils/getQueryParam";
 import { validationSchema, initialValues, labels } from "./config";
 
 export const requiredLabel = (label) => `${label} *`;

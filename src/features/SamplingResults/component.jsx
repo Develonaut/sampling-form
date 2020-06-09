@@ -10,8 +10,7 @@ import {
   TableBody,
 } from "common";
 import { useSampling } from "pages/Sampling";
-import { Button } from "common";
-import { Typography } from "../../common/Typography/component";
+import { Button, Typography } from "common";
 
 export const SamplingResults = () => {
   const classes = useStyles();
