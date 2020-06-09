@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/minitab-take-home/precache-manifest.9a6d799cc08ee5dd82aa43d0941fa869.js"
+  "/minitab-take-home/precache-manifest.833103f4258ba16fa3726962d288aea5.js"
 );
 
 self.addEventListener('message', (event) => {
