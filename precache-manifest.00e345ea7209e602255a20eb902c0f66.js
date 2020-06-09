@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0765a69d91234e2c634566d1edf84288",
+    "revision": "a423d2a286007728d4e42d786a26af9c",
     "url": "/minitab-take-home/index.html"
   },
   {
-    "revision": "715943e2b7e8873b04dc",
+    "revision": "efac5163916139211135",
     "url": "/minitab-take-home/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minitab-take-home/static/js/2.c8e48ba8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "715943e2b7e8873b04dc",
-    "url": "/minitab-take-home/static/js/main.e07ed341.chunk.js"
+    "revision": "efac5163916139211135",
+    "url": "/minitab-take-home/static/js/main.a5c654ea.chunk.js"
   },
   {
     "revision": "855b18479d14fb794ab4",
