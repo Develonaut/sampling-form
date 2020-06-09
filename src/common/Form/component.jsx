@@ -2,7 +2,7 @@ import React from "react";
 import { Formik, Form as FormikForm } from "formik";
 
 export const Form = ({
-  children,
+  children = () => undefined,
   initialValues = {},
   validationSchema = {},
   onSubmit = () => undefined,

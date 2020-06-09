@@ -1,8 +1,8 @@
 import React from "react";
 import { render } from "@testing-library/react";
-import FormActions from
-"./component";
+import { FormActions } from "./component";
+import { Form } from "common";
 
 test("FormActions renders without error", () => {
-  render(<FormActions />);
-    });
+  render(<Form>{() => <FormActions />}</Form>);
+});
