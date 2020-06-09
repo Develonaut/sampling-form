@@ -1,6 +1,6 @@
 {
-  "name": "minitab-take-home",
-  "homepage": "http://develonaut.github.io/minitab-take-home",
+  "name": "sampling-form",
+  "homepage": "http://develonaut.github.io/sampling-form",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
