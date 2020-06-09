@@ -1,6 +1,13 @@
 import React from "react";
 import { FormikConsumer } from "formik";
 
+
+
+/**
+ * Utility Component used as a child in the Form component to debug
+ * form state.
+ *
+ */
 export const FormikDebugger = () => (
   <div
     style={{
